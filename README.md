@@ -8,4 +8,6 @@ youtube: https://youtu.be/JkdYwGgG4Lg
 
 ## task: Unsupervised Machine Learning tech. -Kmeans Clustering
 
-github: 
+github: https://github.com/ShrikantUppin/Sparks_internship/blob/main/2_Unsupervised_ML/task_2_Unsupervised_ML.ipynb
+
+youtube :
