@@ -10,4 +10,4 @@ youtube: https://youtu.be/JkdYwGgG4Lg
 
 github: https://github.com/ShrikantUppin/Sparks_internship/blob/main/2_Unsupervised_ML/task_2_Unsupervised_ML.ipynb
 
-youtube :
+youtube : https://youtu.be/huByjM8T5X8
